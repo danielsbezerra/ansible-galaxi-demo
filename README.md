@@ -1,4 +1,4 @@
-Role Name [![Build Status](https://travis-ci.org/travis-ci/travis.rb.svg?branch=master)](https://travis-ci.org/travis-ci/travis.rb)
+Role Name [![Build Status](https://travis-ci.org/danielsbezerra/test-role-1?branch=master)](https://travis-ci.org/danielsbezerra/test-role-1)
 =========
 
 Just trying Ansible Galaxy.
